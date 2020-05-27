@@ -1,2 +1,9 @@
 # transpile-without-babel-cli
-babel-cliを使わずにtranspile
+
+babel-cli を使わずに transpile
+
+```
+$ npm i
+
+$ node main.js
+```
